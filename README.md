@@ -1,10 +1,12 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Berlin-prog&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Berlin-prog&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Algorithm+Enthusiast;LeetCode+Grinder;Building+Efficient+Systems" />
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=C%2B%2B+Software+Engineer;Problem+Solver;Performance+Focused;Always+Learning" />
 
 </div>
 
@@ -12,21 +14,39 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Focused on **C++ & Data Structures**
-- 🧠 Learning **Algorithms deeply (not just solving)**
-- 🚀 Preparing for **competitive programming & interviews**
-- 🎯 Goal: Become **top-level problem solver**
+I’m a **C++ Software Engineer** with a strong focus on **problem solving and performance-oriented development**.
+
+I enjoy breaking down complex problems, analyzing constraints, and building efficient solutions with clean and maintainable code.
 
 ---
 
-## ⚡ Tech Stack
+## 🧠 Problem Solving Mindset
+
+* 🔍 Focus on **understanding the problem deeply**
+* ⚙️ Optimize for **time and space complexity**
+* 🧩 Recognize and apply **patterns and abstractions**
+* 🔄 Continuously refine solutions for **efficiency and clarity**
+* 🧠 Think in terms of **edge cases and constraints**
+
+---
+
+## ⚡ Core Strengths
+
+* Strong command of **C++ and STL**
+* Writing **efficient and optimized code**
+* Ability to **analyze and decompose problems**
+* Building solutions that scale with constraints
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![STL](https://img.shields.io/badge/STL-Data%20Structures-blue?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-Problem%20Solving-orange?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git)
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/STL-Data%20Structures-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance-Optimization-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git"/>
 
 </div>
 
@@ -44,7 +64,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Activity
 
 <div align="center">
 
@@ -54,7 +74,7 @@
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -74,30 +94,16 @@
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Philosophy
 
-- 📚 Mastering:
-  - Binary Search
-  - Sliding Window
-  - Two Pointers
-  - Graphs (next 🔥)
-
-- 🏆 Grinding **LeetCode contests**
+> "A good solution works.
+> A great solution is efficient, elegant, and scalable."
 
 ---
 
-## 📫 Contact
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
+<!-- Animated Footer -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
